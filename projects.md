@@ -3,7 +3,6 @@ layout: page
 title: Projects
 subtitle: My things
 ---
-{{ content }}
 <p>I have really only made one thing that I can actually share buttttttttt here is the list of things!</p>
 
 * Amazon Stock Bot  
