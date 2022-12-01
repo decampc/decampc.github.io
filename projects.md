@@ -3,8 +3,8 @@ layout: page
 title: Projects
 subtitle: My things
 ---
-
-I have really only made one thing that I can actually share buttttttttt here is the list of things!
+{{ content }}
+<p>I have really only made one thing that I can actually share buttttttttt here is the list of things!</p>
 
 * Amazon Stock Bot  
 [Link to Project](https://github.com/decampc/amazon-stock-bot)\
