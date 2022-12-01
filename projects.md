@@ -6,6 +6,5 @@ subtitle: My things
 
 I have really only made one thing that I can actually share buttttttttt here is the list of things!
 
-* Amazon Stock Bot 
-\[Link to Project](https://github.com/decampc/amazon-stock-bot)\
+* Amazon Stock Bot  [Link to Project](https://github.com/decampc/amazon-stock-bot)\
 This project was just a fun thing that I did during the GPU shortage to if I could. I also was bored and wanted to play around with Python/APIs. It takes in an Amazon shopping link and will continuously(and inefficiently) monitor the page for any mention of being in stock for less than a specified price. It works. Not well. 
