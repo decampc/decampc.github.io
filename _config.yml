@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: My Project Website
 
 # Your name to show in the footer
 author: Conor DeCamp
@@ -21,7 +21,8 @@ author: Conor DeCamp
 
 navbar-links:
   About Me: "aboutme"
-  Author's home: "https://deanattali.com"
+  My Projects: "projects"
+  Template Author's page: "https://deanattali.com"
 
 ################
 # --- Logo --- #
