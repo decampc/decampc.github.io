@@ -8,7 +8,7 @@ subtitle: My things
 
 {% for project in site.data.projects.projects %}
 <h3>{{ project.title }}</h3>
-<h3>{{project.link}}</h3>
+<p><a href={{project.link}}>Link to Project</a></p>
 <!--[Link to Project]({{ project.link }})-->
 <!--<p>{{ project.description }}</p>-->
 {% endfor %}
