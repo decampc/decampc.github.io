@@ -11,7 +11,3 @@ subtitle: My things
 <p><a href="{{project.link}}">Link to Project</a></p>
 {{ project.description }}
 {% endfor %}
-
-<!--* Amazon Stock Bot  
-[Link to Project](https://github.com/decampc/amazon-stock-bot)\
-This project was just a fun thing that I did during the GPU shortage to if I could. I also was bored and wanted to play around with Python/APIs. It takes in an Amazon shopping link and will continuously(and inefficiently) monitor the page for any mention of being in stock for less than a specified price. It works. Not well. -->
