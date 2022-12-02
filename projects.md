@@ -8,8 +8,9 @@ subtitle: My things
 
 {% for project in site.data.projects.projects %}
 <h3>{{ project.title }}</h3>
-[Link to Project]({{ project.link }})
-<p>{{ project.description }}</p>
+<h3>{{project.link}}</h3>
+<!--[Link to Project]({{ project.link }})-->
+<!--<p>{{ project.description }}</p>-->
 {% endfor %}
 
 <!--* Amazon Stock Bot  
