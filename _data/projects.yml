@@ -1,9 +1,7 @@
 projects:
   - title: Amazon Stock Bot
-    details:
-      - link: https://github.com/decampc/amazon-stock-bot
-      - description: This project was just a fun thing that I did during the GPU shortage to if I could. I also was bored and wanted to play around with Python/APIs. It takes in an Amazon shopping link and will continuously(and inefficiently) monitor the page for any mention of being in stock for less than a specified price. It works. Not well. 
+    link: https://github.com/decampc/amazon-stock-bot
+    description: This project was just a fun thing that I did during the GPU shortage to if I could. I also was bored and wanted to play around with Python/APIs. It takes in an Amazon shopping link and will continuously(and inefficiently) monitor the page for any mention of being in stock for less than a specified price. It works. Not well. 
   - title: Lorem ipsum
-    details:
-      - link: Lorem ipsum
-      - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    link: Lorem ipsum
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
